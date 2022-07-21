@@ -46,7 +46,7 @@ read_number_student:
 	move $a0, $s3
 	move $a1, $s0
 	
-	# Tao mang dia chi tang dan
+	# Tao mang gia tri tang dan
 	jal CreateIncreaseNumber
 	
 # Lay ho ten va diem sinh vien
